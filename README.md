@@ -1,2 +1,2 @@
 # hello-world
-time-honored tradition repositiry
+This is first commit
